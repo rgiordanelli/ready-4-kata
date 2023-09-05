@@ -1,5 +1,4 @@
 import 'jest-extended';
-import { mock } from 'jest-mock-extended';
 
 describe('Foo', () => {
 
@@ -8,3 +7,4 @@ describe('Foo', () => {
   })
 
 })
+
