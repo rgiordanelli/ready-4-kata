@@ -9,7 +9,7 @@ Requirements:
 ### Build it
 
 ```
-$ ./gradlew run -x tests
+$ ./gradlew build -x test
 ```
 
 > first run can be slow, it will download gradle wrapper and dependencies
