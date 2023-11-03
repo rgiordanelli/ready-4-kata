@@ -41,3 +41,4 @@ bin/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea
